@@ -1,7 +1,7 @@
 ### Hi there, I'm Yash 👋
 
 
-- 🎓  I am currently pursuing B.E from BITS Pilani, Hyderab Campus 
+- 🎓  I am currently pursuing B.E from BITS Pilani, Hyderabad Campus 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket
