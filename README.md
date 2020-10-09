@@ -7,4 +7,16 @@
 <br></br>
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashs911&show_icons=true&theme=merko))
 
-### :zap: Recent Activity <!--START_SECTION:activity-->
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+
+<!--END_SECTION:activity-->
+
+---
