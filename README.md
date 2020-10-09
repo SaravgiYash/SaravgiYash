@@ -13,10 +13,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
-2. 🗣 Commented on [#34](https://github.com/creativecommons/cc.engine/issues/34) in [creativecommons/cc.engine](https://github.com/creativecommons/cc.engine)
-3. 💪 Opened PR [#5](https://github.com/creativecommons/cc-licenses-data/pull/5) in [creativecommons/cc-licenses-data](https://github.com/creativecommons/cc-licenses-data)
-4. 🗣 Commented on [#4](https://github.com/creativecommons/cc-licenses-data/issues/4) in [creativecommons/cc-licenses-data](https://github.com/creativecommons/cc-licenses-data)
-5. 🗣 Commented on [#113](https://github.com/chec/commercejs-nextjs-demo-store/issues/113) in [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store)
+2. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
+3. 🗣 Commented on [#34](https://github.com/creativecommons/cc.engine/issues/34) in [creativecommons/cc.engine](https://github.com/creativecommons/cc.engine)
+4. 💪 Opened PR [#5](https://github.com/creativecommons/cc-licenses-data/pull/5) in [creativecommons/cc-licenses-data](https://github.com/creativecommons/cc-licenses-data)
+5. 🗣 Commented on [#4](https://github.com/creativecommons/cc-licenses-data/issues/4) in [creativecommons/cc-licenses-data](https://github.com/creativecommons/cc-licenses-data)
 <!--END_SECTION:activity-->
 
 ---
