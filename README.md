@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/hasura/graphqurl/issues/37) in [hasura/graphqurl](https://github.com/hasura/graphqurl)
-2. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
-3. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
-4. 🗣 Commented on [#34](https://github.com/creativecommons/cc.engine/issues/34) in [creativecommons/cc.engine](https://github.com/creativecommons/cc.engine)
-5. 💪 Opened PR [#5](https://github.com/creativecommons/cc-licenses-data/pull/5) in [creativecommons/cc-licenses-data](https://github.com/creativecommons/cc-licenses-data)
+1. 🗣 Commented on [#2773](https://github.com/mozilla/hubs/issues/2773) in [mozilla/hubs](https://github.com/mozilla/hubs)
+2. 🗣 Commented on [#9423](https://github.com/mozilla/addons-frontend/issues/9423) in [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend)
+3. 🗣 Commented on [#37](https://github.com/hasura/graphqurl/issues/37) in [hasura/graphqurl](https://github.com/hasura/graphqurl)
+4. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
+5. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
 <!--END_SECTION:activity-->
 
 ---
