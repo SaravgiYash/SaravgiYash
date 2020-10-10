@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2773](https://github.com/mozilla/hubs/issues/2773) in [mozilla/hubs](https://github.com/mozilla/hubs)
-2. 🗣 Commented on [#9423](https://github.com/mozilla/addons-frontend/issues/9423) in [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend)
-3. 🗣 Commented on [#37](https://github.com/hasura/graphqurl/issues/37) in [hasura/graphqurl](https://github.com/hasura/graphqurl)
-4. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
-5. 🗣 Commented on [#3322](https://github.com/mozilla/addons-linter/issues/3322) in [mozilla/addons-linter](https://github.com/mozilla/addons-linter)
+1. 🗣 Commented on [#8](https://github.com/JIITODC/jiitodc.github.io/issues/8) in [JIITODC/jiitodc.github.io](https://github.com/JIITODC/jiitodc.github.io)
+2. 💪 Opened PR [#54](https://github.com/JIITODC/jiitodc.github.io/pull/54) in [JIITODC/jiitodc.github.io](https://github.com/JIITODC/jiitodc.github.io)
+3. 🗣 Commented on [#52](https://github.com/JIITODC/jiitodc.github.io/issues/52) in [JIITODC/jiitodc.github.io](https://github.com/JIITODC/jiitodc.github.io)
+4. 🗣 Commented on [#101](https://github.com/croma-app/croma-react/issues/101) in [croma-app/croma-react](https://github.com/croma-app/croma-react)
+5. 🗣 Commented on [#2773](https://github.com/mozilla/hubs/issues/2773) in [mozilla/hubs](https://github.com/mozilla/hubs)
 <!--END_SECTION:activity-->
 
 ---
