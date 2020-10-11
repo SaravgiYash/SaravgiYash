@@ -12,9 +12,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#496](https://github.com/internetarchive/bookreader/pull/496) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
-2. 🗣 Commented on [#446](https://github.com/internetarchive/bookreader/issues/446) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
-3. 🗣 Commented on [#3906](https://github.com/internetarchive/openlibrary/issues/3906) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+1. 🗣 Commented on [#3906](https://github.com/internetarchive/openlibrary/issues/3906) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+2. 💪 Opened PR [#496](https://github.com/internetarchive/bookreader/pull/496) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
+3. 🗣 Commented on [#446](https://github.com/internetarchive/bookreader/issues/446) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
 4. 🗣 Commented on [#3906](https://github.com/internetarchive/openlibrary/issues/3906) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
 5. 🗣 Commented on [#3906](https://github.com/internetarchive/openlibrary/issues/3906) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
 <!--END_SECTION:activity-->
