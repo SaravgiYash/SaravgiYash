@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/developer-student-club-thapar/officialWebsite/issues/334) in [developer-student-club-thapar/officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)
-2. 💪 Opened PR [#337](https://github.com/developer-student-club-thapar/officialWebsite/pull/337) in [developer-student-club-thapar/officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)
-3. 🗣 Commented on [#334](https://github.com/developer-student-club-thapar/officialWebsite/issues/334) in [developer-student-club-thapar/officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)
-4. 🗣 Commented on [#335](https://github.com/developer-student-club-thapar/officialWebsite/issues/335) in [developer-student-club-thapar/officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)
-5. 🗣 Commented on [#335](https://github.com/developer-student-club-thapar/officialWebsite/issues/335) in [developer-student-club-thapar/officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)
+1. 🗣 Commented on [#679](https://github.com/mozilla/extension-workshop/issues/679) in [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop)
+2. 🗣 Commented on [#5929](https://github.com/hasura/graphql-engine/issues/5929) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+3. 💪 Opened PR [#803](https://github.com/mozilla/extension-workshop/pull/803) in [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop)
+4. 🗣 Commented on [#334](https://github.com/developer-student-club-thapar/officialWebsite/issues/334) in [developer-student-club-thapar/officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)
+5. 💪 Opened PR [#337](https://github.com/developer-student-club-thapar/officialWebsite/pull/337) in [developer-student-club-thapar/officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)
 <!--END_SECTION:activity-->
 
 ---
