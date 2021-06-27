@@ -1,6 +1,6 @@
 ### Hi there, I'm Yash 👋
 
-- 🎓  I am a sophomore at BITS Pilani, Hyderabad Campus, pursuing a B.E. (Hons.) in Electrical and Electronics Engineering.
+- 🎓  I am a 3rd year student at BITS Pilani, Hyderabad Campus, pursuing a B.E. (Hons.) in Electrical and Electronics Engineering.
 - 🌱 I am currently learning web development.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 <br></br>
