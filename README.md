@@ -7,5 +7,5 @@ Before that, I worked as a Software Engineer Intern at Internet Archive, an open
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 
 <br></br>
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashs911&show_icons=true&theme=merko)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashs911&show_icons=true&theme=merko)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaravgiYash&show_icons=true&theme=merko)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaravgiYash&show_icons=true&theme=merko)
